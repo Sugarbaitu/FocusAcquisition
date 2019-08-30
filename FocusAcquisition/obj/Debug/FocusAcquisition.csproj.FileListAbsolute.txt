@@ -25,3 +25,13 @@ E:\P\WinForm\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.Proper
 E:\P\WinForm\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.csproj.GenerateResource.Cache
 E:\P\WinForm\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.exe
 E:\P\WinForm\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.pdb
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\bin\Debug\FocusAcquisition.exe.config
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\bin\Debug\FocusAcquisition.exe
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\bin\Debug\FocusAcquisition.pdb
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.csprojAssemblyReference.cache
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.Form1.resources
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.Properties.Resources.resources
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.csproj.GenerateResource.cache
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.exe
+E:\Code\GitHub\FocusAcquisition\FocusAcquisition\obj\Debug\FocusAcquisition.pdb

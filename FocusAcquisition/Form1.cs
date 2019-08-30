@@ -30,7 +30,7 @@ namespace FocusAcquisition
 
 
         /// <summary>
-        /// 更具句柄获得标题
+        /// 根据句柄获得标题
         /// </summary>
         /// <param name="hWnd"></param>
         /// <param name="lpString"></param>
@@ -104,16 +104,13 @@ namespace FocusAcquisition
 
         private void label1_TextChanged(object sender, EventArgs e)
         {
-            listView1.Items.Insert(0,new ListViewItem(new string[]{
+            listView1.Items.Insert(0, new ListViewItem(new string[]{
             myPtr.ToString(),
              title.ToString(),
              className.ToString(),
              pID.ToString(),
              DateTime.Now.ToString("yy-MM-dd HH:mm:ss"),
             }));
-
-          
-
         }
     }
 }
